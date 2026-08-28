@@ -11,5 +11,7 @@
   <li>Hanging with my wife and kids</li>
   <li>Trying to wrangle Maple and Pearl, my two crazy maltipoos</li>
   <li>Playing guitar</li>
-  <li>Reading books that I can barely comprehend</li>
+  <li>Reading</li>
+  <li>Building Legos</li>
+  <li>Playing Magic: The Gathering</li>
 </ul>
